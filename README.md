@@ -26,7 +26,7 @@ catkin build
 
 You now have a working package with the nxt_viz package in it.
 
-## Using NXT Robots
+## Using NXT Viz
 
 The viz package needs the core NXT ROS package to be properly loaded in order to work, more information on this [here](https://github.com/NXT-ROS/nxt).
 
